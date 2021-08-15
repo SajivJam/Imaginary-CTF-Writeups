@@ -34,4 +34,5 @@ Take a look around at what I solved!
 2. The Muppets
 
    In this challenge, we are given a .png file called kermit
+   
    ![Screenshot (56)](https://user-images.githubusercontent.com/68140663/129470693-a1c536a3-6930-4c57-a02a-053656157426.png)
