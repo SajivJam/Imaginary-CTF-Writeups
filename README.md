@@ -6,17 +6,17 @@ Take a look around at what I solved!
 
 
 
+----------
+
+
+
+====round 13====
 
 
 
 
-==round 13==
 
-
-
-
-
-
+----------
 
 
 
@@ -29,5 +29,9 @@ Take a look around at what I solved!
    If we input the flag into ImaginaryCTF bot, we solve the challenge
    ![Screenshot (54)](https://user-images.githubusercontent.com/68140663/129470408-29da3cea-2c11-435f-a17e-29cf1e0ee998.png)
    
+----  
    
-2. Trace the Line
+2. The Muppets
+
+   In this challenge, we are given a .png file called kermit
+   ![Screenshot (56)](https://user-images.githubusercontent.com/68140663/129470693-a1c536a3-6930-4c57-a02a-053656157426.png)
